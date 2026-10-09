@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">Hello World</string>
+    <string name="clicked_text">I was clicked</string>
+    <string name="click_button">Click me</string>
+</resources>

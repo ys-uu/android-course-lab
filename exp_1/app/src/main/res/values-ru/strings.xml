@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">Привет мир</string>
+    <string name="clicked_text">Меня нажали</string>
+    <string name="click_button">Нажми меня</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">杨松2024110540</string>
+    <string name="app_title">UI Code and MVC</string>
+    <string name="add_textview_btn">添加文本</string>
+    <string name="new_tv_prefix">新文本：</string>
+    <string name="confirm_btn">确定</string>
+    <string name="tips_kotlin">Kotlin 安卓首选语言，简洁安全</string>
+    <string name="tips_java">Java 传统安卓开发语言</string>
+    <string name="tips_cpp">C++ 高性能底层开发</string>
+    <string name="lang_kotlin">kotlin</string>
+</resources>

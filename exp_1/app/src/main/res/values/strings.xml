@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">你好世界</string>
+    <string name="clicked_text">我被点击了</string>
+    <string name="click_button">点我</string>
+</resources>

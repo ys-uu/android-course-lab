@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="lang_list">
+        <item>kotlin</item>
+        <item>java</item>
+        <item>C++</item>
+    </string-array>
+</resources>
