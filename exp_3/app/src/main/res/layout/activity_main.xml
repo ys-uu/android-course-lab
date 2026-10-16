@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/et_main_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_input_main"/>
+
+    <TextView
+        android:id="@+id/tv_back_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_back_result"/>
+
+    <Button
+        android:id="@+id/btn_second"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_second"/>
+
+    <Button
+        android:id="@+id/btn_third"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_third"/>
+
+    <Button
+        android:id="@+id/btn_fourth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_fourth"/>
+
+    <Button
+        android:id="@+id/btn_fifth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_fifth"/>
+
+</LinearLayout>

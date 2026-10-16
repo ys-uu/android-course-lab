@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">杨松2024110540</string>
+    <string name="btn_second">SecondActivity(正向传参)</string>
+    <string name="btn_third">ThirdActivity(返回数据)</string>
+    <string name="btn_fourth">FourthActivity(相机拍照)</string>
+    <string name="btn_fifth">FifthActivity(秒表)</string>
+    <string name="hint_input_main">输入要传递的内容</string>
+    <string name="hint_input_back">输入要返回给主页的文字</string>
+    <string name="btn_return">返回主页</string>
+    <string name="text_receive">收到的数据：</string>
+    <string name="text_back_result">主页收到返回值：</string>
+    <string name="btn_take_photo">拍照</string>
+    <string name="btn_start">开始</string>
+    <string name="btn_stop">暂停</string>
+    <string name="btn_reset">重置</string>
+</resources>
